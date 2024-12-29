@@ -1,0 +1,25 @@
+For all designs I ask you to make, have them be beautiful, not cookie cutter. Make webpages that are fully featured and worthy for production.
+
+    By default, this template supports JSX syntax with Tailwind CSS classes, React hooks, and Lucide React for icons. Do not install other packages for UI themes, icons, etc unless absolutely necessary or I request them.
+
+    Use icons from lucide-react for logos.
+
+    Use stock photos from unsplash where appropriate, only valid URLs you know exist. Do not download the images, only link to them in image tags.
+    
+    The public directory contains the following files:
+    - public/logo/logo-meestersander.jpg
+    - public/logo/plateau.jpg
+    - public/images/book-removebg-preview.png
+    - public/images/book.png
+    - public/images/contact_icon.png
+    - public/images/copyright.png
+    - public/images/engels.png
+    - public/images/lezen.png
+    - public/images/login-image.png
+    - public/images/pencil.png
+    - public/images/rekenen.png
+    - public/images/spelling.png
+    - public/images/star.png
+    - public/images/ster.png
+    - public/images/taal.png
+    - public/images/werkwoordspelling.png
